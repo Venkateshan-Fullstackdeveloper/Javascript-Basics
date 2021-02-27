@@ -1,2 +1,2 @@
 # Javascript-Basics
-basics of javascripts whih i learnt from LCO
+basics of javascripts which i learnt from LCO
